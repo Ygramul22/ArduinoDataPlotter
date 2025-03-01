@@ -1,0 +1,63 @@
+C:\Users\Jesus Rica Matea\Desktop\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.csproj.AssemblyReference.cache
+C:\Users\Jesus Rica Matea\Desktop\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jesus Rica Matea\Desktop\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos2DataProcessor.g.cs
+C:\Users\Jesus Rica Matea\Desktop\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\App.g.cs
+C:\Users\Jesus Rica Matea\Desktop\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2_MarkupCompile.cache
+C:\Users\Jesus Rica Matea\Desktop\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2_MarkupCompile.lref
+C:\Users\Jesus Rica Matea\Desktop\Cansat_Code\Pelayitos_2\Pelayitos_2\bin\Debug\Pelayitos_2.exe.config
+C:\Users\Jesus Rica Matea\Desktop\Cansat_Code\Pelayitos_2\Pelayitos_2\bin\Debug\Pelayitos_2.exe
+C:\Users\Jesus Rica Matea\Desktop\Cansat_Code\Pelayitos_2\Pelayitos_2\bin\Debug\Pelayitos_2.pdb
+C:\Users\Jesus Rica Matea\Desktop\Cansat_Code\Pelayitos_2\Pelayitos_2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jesus Rica Matea\Desktop\Cansat_Code\Pelayitos_2\Pelayitos_2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jesus Rica Matea\Desktop\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos2DataProcessor.baml
+C:\Users\Jesus Rica Matea\Desktop\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.g.resources
+C:\Users\Jesus Rica Matea\Desktop\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.Properties.Resources.resources
+C:\Users\Jesus Rica Matea\Desktop\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.csproj.GenerateResource.cache
+C:\Users\Jesus Rica Matea\Desktop\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Rica Matea\Desktop\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.csproj.CopyComplete
+C:\Users\Jesus Rica Matea\Desktop\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.exe
+C:\Users\Jesus Rica Matea\Desktop\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.pdb
+C:\Users\Jesus Rica Matea\Desktop\Cansat_Code\Pelayitos_2\Pelayitos_2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jesus Rica Matea\Desktop\Cansat_Code\Pelayitos_2\Pelayitos_2\bin\Debug\Newtonsoft.Json.xml
+D:\Post-Disco\CanSat\22_23\Codes\Cansat_Code\Pelayitos_2\Pelayitos_2\bin\Debug\Pelayitos_2.exe.config
+D:\Post-Disco\CanSat\22_23\Codes\Cansat_Code\Pelayitos_2\Pelayitos_2\bin\Debug\Pelayitos_2.exe
+D:\Post-Disco\CanSat\22_23\Codes\Cansat_Code\Pelayitos_2\Pelayitos_2\bin\Debug\Pelayitos_2.pdb
+D:\Post-Disco\CanSat\22_23\Codes\Cansat_Code\Pelayitos_2\Pelayitos_2\bin\Debug\Newtonsoft.Json.dll
+D:\Post-Disco\CanSat\22_23\Codes\Cansat_Code\Pelayitos_2\Pelayitos_2\bin\Debug\System.Numerics.Vectors.dll
+D:\Post-Disco\CanSat\22_23\Codes\Cansat_Code\Pelayitos_2\Pelayitos_2\bin\Debug\Newtonsoft.Json.xml
+D:\Post-Disco\CanSat\22_23\Codes\Cansat_Code\Pelayitos_2\Pelayitos_2\bin\Debug\System.Numerics.Vectors.xml
+D:\Post-Disco\CanSat\22_23\Codes\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.csproj.AssemblyReference.cache
+D:\Post-Disco\CanSat\22_23\Codes\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.csproj.SuggestedBindingRedirects.cache
+D:\Post-Disco\CanSat\22_23\Codes\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos2DataProcessor.g.cs
+D:\Post-Disco\CanSat\22_23\Codes\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\App.g.cs
+D:\Post-Disco\CanSat\22_23\Codes\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2_MarkupCompile.cache
+D:\Post-Disco\CanSat\22_23\Codes\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2_MarkupCompile.lref
+D:\Post-Disco\CanSat\22_23\Codes\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos2DataProcessor.baml
+D:\Post-Disco\CanSat\22_23\Codes\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.g.resources
+D:\Post-Disco\CanSat\22_23\Codes\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.Properties.Resources.resources
+D:\Post-Disco\CanSat\22_23\Codes\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.csproj.GenerateResource.cache
+D:\Post-Disco\CanSat\22_23\Codes\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.csproj.CoreCompileInputs.cache
+D:\Post-Disco\CanSat\22_23\Codes\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.csproj.CopyComplete
+D:\Post-Disco\CanSat\22_23\Codes\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.exe
+D:\Post-Disco\CanSat\22_23\Codes\Cansat_Code\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.pdb
+D:\Post-Disco\programación\CanSat\22_23\Codes\Cansat_Code - copia (2)\Pelayitos_2\Pelayitos_2\bin\Debug\Pelayitos_2.exe.config
+D:\Post-Disco\programación\CanSat\22_23\Codes\Cansat_Code - copia (2)\Pelayitos_2\Pelayitos_2\bin\Debug\Pelayitos_2.exe
+D:\Post-Disco\programación\CanSat\22_23\Codes\Cansat_Code - copia (2)\Pelayitos_2\Pelayitos_2\bin\Debug\Pelayitos_2.pdb
+D:\Post-Disco\programación\CanSat\22_23\Codes\Cansat_Code - copia (2)\Pelayitos_2\Pelayitos_2\bin\Debug\Newtonsoft.Json.dll
+D:\Post-Disco\programación\CanSat\22_23\Codes\Cansat_Code - copia (2)\Pelayitos_2\Pelayitos_2\bin\Debug\System.Numerics.Vectors.dll
+D:\Post-Disco\programación\CanSat\22_23\Codes\Cansat_Code - copia (2)\Pelayitos_2\Pelayitos_2\bin\Debug\Newtonsoft.Json.xml
+D:\Post-Disco\programación\CanSat\22_23\Codes\Cansat_Code - copia (2)\Pelayitos_2\Pelayitos_2\bin\Debug\System.Numerics.Vectors.xml
+D:\Post-Disco\programación\CanSat\22_23\Codes\Cansat_Code - copia (2)\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.csproj.AssemblyReference.cache
+D:\Post-Disco\programación\CanSat\22_23\Codes\Cansat_Code - copia (2)\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.csproj.SuggestedBindingRedirects.cache
+D:\Post-Disco\programación\CanSat\22_23\Codes\Cansat_Code - copia (2)\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos2DataProcessor.g.cs
+D:\Post-Disco\programación\CanSat\22_23\Codes\Cansat_Code - copia (2)\Pelayitos_2\Pelayitos_2\obj\Debug\App.g.cs
+D:\Post-Disco\programación\CanSat\22_23\Codes\Cansat_Code - copia (2)\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2_MarkupCompile.cache
+D:\Post-Disco\programación\CanSat\22_23\Codes\Cansat_Code - copia (2)\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2_MarkupCompile.lref
+D:\Post-Disco\programación\CanSat\22_23\Codes\Cansat_Code - copia (2)\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos2DataProcessor.baml
+D:\Post-Disco\programación\CanSat\22_23\Codes\Cansat_Code - copia (2)\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.g.resources
+D:\Post-Disco\programación\CanSat\22_23\Codes\Cansat_Code - copia (2)\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.Properties.Resources.resources
+D:\Post-Disco\programación\CanSat\22_23\Codes\Cansat_Code - copia (2)\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.csproj.GenerateResource.cache
+D:\Post-Disco\programación\CanSat\22_23\Codes\Cansat_Code - copia (2)\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.csproj.CoreCompileInputs.cache
+D:\Post-Disco\programación\CanSat\22_23\Codes\Cansat_Code - copia (2)\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.csproj.CopyComplete
+D:\Post-Disco\programación\CanSat\22_23\Codes\Cansat_Code - copia (2)\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.exe
+D:\Post-Disco\programación\CanSat\22_23\Codes\Cansat_Code - copia (2)\Pelayitos_2\Pelayitos_2\obj\Debug\Pelayitos_2.pdb
